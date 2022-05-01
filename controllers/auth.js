@@ -99,7 +99,6 @@ const login = async (req, res = response) => {
             usuario,
             token
         })
-
 }
 
     
